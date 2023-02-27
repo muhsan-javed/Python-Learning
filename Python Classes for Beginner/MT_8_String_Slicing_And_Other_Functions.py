@@ -1,0 +1,15 @@
+mystr = "Muhsan is a good boy"
+# print(len(mystr))
+# print(mystr[0:20])
+# print(mystr[0:20:2])
+# print(mystr[::]+'\n')
+# print(mystr[-4:-2])
+# print(mystr[::-1])
+
+print(mystr.isalnum())
+print(mystr.endswith("beoy"))
+print(mystr.capitalize())
+print(mystr.find("is"))
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("is","are"))
